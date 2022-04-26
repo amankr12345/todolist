@@ -1,0 +1,4 @@
+const USER_ACTION_TYPE=()=>{
+    TODO_DATA: 'TO_DO'
+    DELETE_DATA: 'DELETE_DATA'
+}
